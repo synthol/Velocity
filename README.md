@@ -8,4 +8,4 @@ Velocity is an external ring3 health based GlowEsp for Counter-Strike: Global Of
 ***
 
 ## Disclaimer
-- Do not attempt to use Velocity on any server utilizing anti-cheat software without heavy modification as this will almost always guarantee a ban from that anti-cheat since this was never intended to bypass plus the source code is public
+Do not attempt to use Velocity on any server utilizing anti-cheat software without heavy modification as this will almost always guarantee a ban from that anti-cheat since this was never intended to bypass plus the source code is public
